@@ -206,9 +206,9 @@ return [
   'message'                           => 'Mensaje',
   'messages'                          => 'Mensajes',
   'misc'                              => 'Miscelánea',
-  'missing_gamedescriptions'          => 'Faltan descripciones de juego',
-  'missing_gamefiles'                 => 'Faltan ficheros de juego',
-  'missing_screenshots'               => 'Faltan capturas de pantalla',
+  'missing_gamedescriptions'          => 'Juegos sin descripción',
+  'missing_gamefiles'                 => 'Ficheros de juego ausentes',
+  'missing_screenshots'               => 'Capturas de pantalla faltantes',
   'monster'                           => 'Monster',
   'more'                              => 'más',
   'msgbox'                            => [
